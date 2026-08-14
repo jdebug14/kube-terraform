@@ -1,0 +1,3 @@
+# bootstrap
+
+Intended to run once, should never be destroyed. Exists to make the disposble things in [cluster](/cluster/) safe
